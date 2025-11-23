@@ -10,4 +10,4 @@ BrainCircuit is an AIpowered math puzzle game where reinforcement learning agent
 - *Human vs AI Mode:* Play against trained agents  
 - *Modular Code:* Easy to upgrade and experiment with RL algorithms
 
- 📁 Project Structure
+  Project Structure
